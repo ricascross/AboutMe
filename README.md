@@ -1,3 +1,5 @@
+# About Me
+
 Hi There!👏🏼
 
 I am Ricardo Cruz and I am graduate at COmputer Science @ Universidade do Minho.🎓
