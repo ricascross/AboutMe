@@ -5,5 +5,6 @@ I am a Computer Science graduate @ Universidade do Minho.🎓
 I am passionate about everythingthat involves computers, be it programming or hardware. 💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricascross&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricascross&theme=blue-green&&layout=compact)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricascross&theme=blue-green&&layout=compact)
 
